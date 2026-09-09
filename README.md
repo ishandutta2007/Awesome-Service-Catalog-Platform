@@ -65,7 +65,7 @@ The table below is sorted by **Company Size (Valuation / Revenue)** in **descend
 
 The table below features popular open-source frameworks, software catalogs, and platform engineering tools. Sorted by **GitHub Star Count** in **descending order**. Click any star badge to visit that repository's stargazers page:
 
-| Repository 📦 | Star Count 🌟 | Description 📝 |
+| Repository 📦 | Star_Count 🌟 | Description 📝 |
 | :--- | :--- | :--- |
 | **[Backstage](https://github.com/backstage/backstage)** | [![Stars](https://img.shields.io/github/stars/backstage/backstage?style=social)](https://github.com/backstage/backstage/stargazers) | Spotify's CNCF open-source framework for building internal developer portals, service catalogs, TechDocs, and software templates. |
 | **[Crossplane](https://github.com/crossplane/crossplane)** | [![Stars](https://img.shields.io/github/stars/crossplane/crossplane?style=social)](https://github.com/crossplane/crossplane/stargazers) | CNCF framework to build control planes and orchestrate cloud infrastructure abstractions for developer self-service. |
