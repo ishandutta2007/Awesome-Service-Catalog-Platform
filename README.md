@@ -42,65 +42,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Port](https://www.getport.io/)**  
-
-  Popular hosted internal developer portal and service catalog focused on flexible data modeling, self-service actions, and platform engineering workflows.
-
-
-
-- **[OpsLevel](https://www.opslevel.com/)**  
-
-  Service catalog and developer portal emphasizing service maturity scorecards, operational standards, and ownership tracking.
-
-
-
-- **[Cortex](https://www.cortex.io/)**  
-
-  Engineering intelligence and service catalog platform strong in scorecards, production readiness, and service ownership visibility.
-
-
-
-- **[Atlassian Compass](https://www.atlassian.com/software/compass)**  
-
-  Developer portal and component catalog tightly integrated with the Atlassian ecosystem (Jira, Bitbucket, etc.).
-
-
-
-- **[Roadie](https://roadie.io/)**  
-
-  Managed Backstage offering that provides a hosted, supported Backstage experience with enterprise features and reduced operational overhead.
-
-
-
-- **[Humanitec, Mia-Platform, Appvia](https://humanitec.com/)**  
-
-  Internal developer platform and platform-engineering solutions that include service catalog and self-service capabilities.
-
-
-
-- **[ServiceNow Service Catalog](https://www.servicenow.com/)**  
-
-  Enterprise service catalog capabilities within the broader ServiceNow platform, often used for IT and developer request workflows.
-
-
-
-- **[CloudTruth, FireHydrant, StackState](https://www.cloudtruth.com/)**  
-
-  Specialized tools that contribute configuration, incident, or observability context to service catalogs and developer portals.
-
-
-
-- **[Rundeck, Morpheus, CloudBolt](https://www.rundeck.com/)**  
-
-  Self-service automation and cloud-management platforms that frequently serve as action backends for service catalogs.
-
-
-
-- **[Other developer portal & catalog platforms](https://backstage.io/)**  
-
-  Additional commercial solutions in the internal developer portal and platform-engineering space.
+| Platform / Product | Description | Starting Tier Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Port](https://www.getport.io/)** | Flexible internal developer portal & service catalog focused on data modeling, self-service actions, and scorecards. | $30 / seat / month (Basic plan) | Free forever for up to 15 seats |
+| **[OpsLevel](https://www.opslevel.com/)** | Service catalog and developer portal emphasizing service maturity scorecards and operational standards. | ~$39 / developer / month (Standard plan) | 14-day to 30-day free trial / Proof-of-Concept |
+| **[Cortex](https://www.cortex.io/)** | Engineering intelligence and developer portal for scorecards, production readiness, and cataloging. | ~$35 / developer / month (Starting tier) | 14-day guided free trial / Proof-of-Concept |
+| **[Atlassian Compass](https://www.atlassian.com/software/compass)** | Component catalog and portal tightly integrated with Jira, Bitbucket, and Atlassian tools. | $7.00 / full user / month (Standard plan) | Free forever for up to 3 full users (unlimited basic users) |
+| **[Roadie](https://roadie.io/)** | Managed SaaS Backstage offering providing a hosted software catalog without operational overhead. | $24 / developer / month (Teams plan) | 30-day free trial (SaaS) / Free forever for <15 users (Roadie Local) |
+| **[Humanitec](https://humanitec.com/)** | Internal developer platform and cloud-native application orchestrator with service catalog capabilities. | $1,979 / month (Teams plan, 5 users) | 30-day free trial |
+| **[Mia-Platform](https://mia-platform.eu/)** | Enterprise internal developer platform and software catalog for orchestrating microservices and APIs. | ~$5,000 / month ($60,000/yr base tier) | 30-day guided free trial / Proof-of-Concept |
+| **[Appvia (Wayfinder)](https://www.appvia.io/)** | Kubernetes developer portal and platform management tool for self-service infrastructure. | $799 / month (Pro plan up to 3 products) | Free forever for 1 product (unlimited users) |
+| **[ServiceNow Service Catalog](https://www.servicenow.com/)** | Enterprise IT service catalog and request portal embedded within ServiceNow ITSM. | ~$70 / fulfiller user / month (ITSM starting tier) | Free Personal Developer Instance (PDI) sandbox |
+| **[CloudTruth](https://www.cloudtruth.com/)** | Centralized configuration management platform providing parameter and secret context to catalogs. | $499 / month (Pro plan) | 14-day free trial (Free forever for open-source & non-profits) |
+| **[FireHydrant](https://www.firehydrant.com/)** | Incident management platform with service catalog mapping services, ownership, and response. | $25 / responder / month (Pro plan, annual) | Free forever for up to 10 responders (or 14-day Pro trial) |
+| **[StackState](https://www.stackstate.com/)** | Observability and topology-based catalog (SUSE Cloud Observability) mapping service dependencies. | $99 / month ($9.99/host/mo, min 10 hosts) | 30-day free trial (Free for SUSE Rancher Prime users) |
+| **[Rundeck](https://www.rundeck.com/)** | Self-service runbook automation platform serving as an action execution backend for developer portals. | $59 / user / month (PagerDuty Runbook Automation SaaS) | Free forever for Community Edition (self-hosted) / 14-day trial (SaaS) |
+| **[Morpheus Data](https://morpheusdata.com/)** | Multi-cloud management and self-service orchestration portal for hybrid IT and platform engineering. | ~$2,083 / month ($25,000/yr entry tier) | Free Community Edition (home lab) / 60-day trial (VM Essentials) |
+| **[CloudBolt](https://www.cloudbolt.io/)** | Hybrid cloud management platform and self-service portal for provisioning infrastructure and services. | ~$708 / month ($8,500/yr entry subscription) | Free forever for up to 100 managed resources |
 
 
 
